@@ -1,6 +1,6 @@
-# Machine-Learning-Elevoo_Internship
-My work during Elevvo Machine Learning Internship (1-Month Program). Completed 5 Machine Learning Tasks including regression, clustering, classification, and recommender systems. Achieved all mandatory requirements + additional bonus tasks.
 # Elevvo Machine Learning Internship 
+
+My work during Elevvo Machine Learning Internship (1-Month Program). Completed 5 Machine Learning Tasks including regression, clustering, classification, and recommender systems. Achieved all mandatory requirements + additional bonus tasks.
 
 This repository contains my work during the **1-Month Machine Learning Internship at Elevvo**.  
 I successfully completed **5 out of 8 tasks** (4 mandatory + 1 bonus), covering a wide range of ML techniques and real-world datasets.
